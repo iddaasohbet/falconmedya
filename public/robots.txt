@@ -1,0 +1,10 @@
+# Falcon Media - Dijital Güvenlik Uzmanı
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://falconmedia.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
