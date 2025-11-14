@@ -69,8 +69,8 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Right Content - Corporate Stats & Info */}
-          <div className="relative space-y-6">
+          {/* Right Content - Corporate Stats & Info - Desktop Only */}
+          <div className="hidden lg:block relative space-y-6">
             {/* Top Stats Grid */}
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-white rounded-2xl p-6 shadow-lg border-2 border-blue-100 hover:border-blue-300 transition-colors">
