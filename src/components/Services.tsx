@@ -23,20 +23,20 @@ const services = [
   },
   {
     icon: Search,
-    title: "Hacker Kiralamak İçin Doğru Yerdesiniz",
-    desc: "Aklınıza Gelebilecek Tüm İşlemleri Yapabilmekteyiz. Cihaz Erişimi–Whatsapp Takip–Sosyal Medya Hackleme–…vs. Gibi İşlemler Ortalama 1 Saat İçerisinde Hızlıca Tamamlanabilmektedir",
+    title: "Whatsapp Erişim",
+    desc: "Hedef Kişinin Uzaktan Whatsapp Adresini Hackleyip Sizlere Takip Ettirebiliyoruz",
     color: "green",
   },
   {
     icon: RefreshCw,
-    title: "Whatsapp Erişim",
-    desc: "Hedef Kişinin Uzaktan Whatsapp Adresini Hackleyip Sizlere Takip Ettirebiliyoruz",
+    title: "Veri Kurtarma & Silme",
+    desc: "Verileriniz Başka Kişilerin Eline Geçtiyse Endişelenmeyin Özel verilerinizi Sildirmek İçin veya Verilerinizi Kurtarmak İçin Bizimle İletişime Geçebilirsiniz",
     color: "orange",
   },
   {
     icon: MapPin,
-    title: "Veri Kurtarma & Silme",
-    desc: "Verileriniz Başka Kişilerin Eline Geçtiyse Endişelenmeyin Özel verilerinizi Sildirmek İçin veya Verilerinizi Kurtarmak İçin Bizimle İletişime Geçebilirsiniz",
+    title: "Destek",
+    desc: "Herhangi Bir Firma-Site Tarafından Mağdur Olduysanız Bize Ulaşın Ödemenizi Geri Alalım",
     color: "teal",
   },
 ];
@@ -62,12 +62,11 @@ export default function Services() {
             </span>
           </div>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900">
-            Profesyonel Hacker{" "}
-            <span className="text-blue-600">Hizmetleri</span>
+            Hacker Kiralamak İçin{" "}
+            <span className="text-blue-600">Doğru Yerdesiniz</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Cihaz Erişimi, Sosyal Medya Hackleme, Whatsapp Takip ve Veri Kurtarma gibi 
-            tüm hizmetlerimiz için bize ulaşabilirsiniz
+            Aklınıza Gelebilicek Tüm İşlemleri Yapabilmekteyiz. Cihaz Erişimi-Whatsapp Takip-Sosyal Medya Hackleme-...vs. Gibi İşlemler Ortalama 1 Saat İçerisinde Hızlıca Tamamlanabilmektedir
           </p>
         </div>
 
