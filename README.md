@@ -34,7 +34,7 @@ Dijital güvenlik ve hesap kurtarma hizmetleri sunan profesyonel Next.js web sit
 ## 📞 İletişim
 
 - **Telefon:** 0537 312 78 39
-- **E-posta:** info@falconmedia.com
+- **E-posta:** info@www.falconmedya.com
 - **Adres:** İstanbul, Türkiye
 - **WhatsApp:** https://wa.me/905373127839
 
@@ -149,7 +149,7 @@ Bu proje özel kullanım içindir.
 ---
 
 **© 2024 Falcon Media - Tüm hakları saklıdır.**
-**Tel: 0537 312 78 39 | info@falconmedia.com**
+**Tel: 0537 312 78 39 | info@www.falconmedya.com**
 
 **Geliştirme:** Next.js 16 + TypeScript + Tailwind CSS
 **Hosting:** Vercel

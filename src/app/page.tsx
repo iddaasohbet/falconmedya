@@ -13,12 +13,12 @@ export default function Home() {
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://falconmedia.com/#organization",
+        "@id": "https://www.falconmedya.com/#organization",
         name: "Falcon Media",
-        url: "https://falconmedia.com",
+        url: "https://www.falconmedya.com",
         logo: {
           "@type": "ImageObject",
-          url: "https://falconmedia.com/logo.png",
+          url: "https://www.falconmedya.com/logo.png",
         },
         description: "Dijital güvenlik uzmanı ekibimizle Instagram hesap kurtarma, Facebook hesap kurtarma ve sosyal medya güvenliği hizmetleri",
         address: {
@@ -30,19 +30,19 @@ export default function Home() {
           "@type": "ContactPoint",
           telephone: "+90-537-312-78-39",
           contactType: "customer service",
-          email: "info@falconmedia.com",
+          email: "info@www.falconmedya.com",
           areaServed: "TR",
           availableLanguage: ["Turkish"],
         },
       },
       {
         "@type": "WebSite",
-        "@id": "https://falconmedia.com/#website",
-        url: "https://falconmedia.com",
+        "@id": "https://www.falconmedya.com/#website",
+        url: "https://www.falconmedya.com",
         name: "Falcon Media - Dijital Güvenlik Uzmanı",
         description: "Instagram hesap kurtarma, Facebook hesap kurtarma ve dijital güvenlik hizmetleri",
         publisher: {
-          "@id": "https://falconmedia.com/#organization",
+          "@id": "https://www.falconmedya.com/#organization",
         },
         inLanguage: "tr-TR",
       },
@@ -50,7 +50,7 @@ export default function Home() {
         "@type": "Service",
         serviceType: "Dijital Güvenlik ve Hesap Kurtarma Hizmetleri",
         provider: {
-          "@id": "https://falconmedia.com/#organization",
+          "@id": "https://www.falconmedya.com/#organization",
         },
         areaServed: {
           "@type": "Country",

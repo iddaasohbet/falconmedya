@@ -58,7 +58,7 @@ export default function KVKKPage() {
                   </div>
                   <div className="flex items-center gap-3 text-gray-700">
                     <Mail className="h-5 w-5 text-blue-600 flex-shrink-0" />
-                    <span><strong>E-posta:</strong> info@falconmedia.com</span>
+                    <span><strong>E-posta:</strong> info@www.falconmedya.com</span>
                   </div>
                   <div className="flex items-center gap-3 text-gray-700">
                   <Phone className="h-5 w-5 text-blue-600 flex-shrink-0" />
@@ -324,7 +324,7 @@ export default function KVKKPage() {
                       <p className="font-semibold text-gray-900">E-Posta ile Başvuru</p>
                       <p className="text-gray-700 text-sm mt-1">
                         Kayıtlı Elektronik Posta (KEP) adresi kullanarak veya Şirketimize daha önce 
-                        bildirdiğiniz e-posta adresini kullanarak: <strong>info@falconmedia.com</strong>
+                        bildirdiğiniz e-posta adresini kullanarak: <strong>info@www.falconmedya.com</strong>
                       </p>
                     </div>
                   </div>
@@ -380,7 +380,7 @@ export default function KVKKPage() {
               <div className="space-y-3">
                 <div className="flex items-center gap-3">
                   <Mail className="h-5 w-5" />
-                  <span>info@falconmedia.com</span>
+                  <span>info@www.falconmedya.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5" />

@@ -46,7 +46,7 @@ Vercel dashboard'da şu env variable'ları ekleyebilirsin:
 ```
 NEXT_PUBLIC_SITE_URL=https://falconmedya.vercel.app
 NEXT_PUBLIC_PHONE=905373127839
-NEXT_PUBLIC_EMAIL=info@falconmedia.com
+NEXT_PUBLIC_EMAIL=info@www.falconmedya.com
 ```
 
 ### 4. Domain Ayarları
@@ -84,5 +84,5 @@ Vercel otomatik olarak yeni versiyonu deploy eder! 🚀
 ## 📞 İletişim
 
 - **Tel:** 0537 312 78 39
-- **Email:** info@falconmedia.com
+- **Email:** info@www.falconmedya.com
 

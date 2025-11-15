@@ -59,7 +59,7 @@ export default function GizlilikPolitikasiPage() {
                   </div>
                   <div className="flex items-center gap-3 text-gray-700">
                     <Mail className="h-5 w-5 text-blue-600 flex-shrink-0" />
-                    <span><strong>E-posta:</strong> info@falconmedia.com</span>
+                    <span><strong>E-posta:</strong> info@www.falconmedya.com</span>
                   </div>
                   <div className="flex items-center gap-3 text-gray-700">
                   <Phone className="h-5 w-5 text-blue-600 flex-shrink-0" />
@@ -281,7 +281,7 @@ export default function GizlilikPolitikasiPage() {
               <div className="space-y-3">
                 <div className="flex items-center gap-3">
                   <Mail className="h-5 w-5" />
-                  <span>info@falconmedia.com</span>
+                  <span>info@www.falconmedya.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5" />

@@ -322,7 +322,7 @@ export default function HakkimizdaPage() {
                   <Mail className="h-6 w-6 text-blue-600" />
                 </div>
                 <p className="text-sm text-gray-600 mb-1">E-posta</p>
-                <p className="font-semibold text-gray-900">info@falconmedia.com</p>
+                <p className="font-semibold text-gray-900">info@www.falconmedya.com</p>
               </div>
 
               <div className="bg-white rounded-xl p-6 border border-gray-200">

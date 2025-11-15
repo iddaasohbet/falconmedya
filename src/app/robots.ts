@@ -7,7 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: [],
     },
-    sitemap: 'https://falconmedia.com/sitemap.xml',
+    sitemap: 'https://www.falconmedya.com/sitemap.xml',
   }
 }
 

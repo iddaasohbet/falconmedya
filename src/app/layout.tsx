@@ -60,7 +60,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Dijital Güvenlik Uzmanı | Hesap Kurtarma Hizmetleri",
     description: "Instagram, Facebook, Twitter hesap kurtarma ve dijital güvenlik hizmetleri. Profesyonel ekip, 7/24 destek.",
-    url: "https://falconmedia.com",
+    url: "https://www.falconmedya.com",
     siteName: "Falcon Media",
     locale: "tr_TR",
     type: "website",

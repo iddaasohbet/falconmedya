@@ -117,7 +117,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li>
                 <a 
-                  href="mailto:info@falconmedia.com" 
+                  href="mailto:info@www.falconmedya.com" 
                   className="flex items-start gap-3 text-gray-600 hover:text-blue-600 transition-colors group"
                 >
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-blue-50 text-blue-600 flex-shrink-0">
@@ -125,7 +125,7 @@ export default function Footer() {
                   </div>
                   <div>
                     <div className="text-xs text-gray-500 mb-0.5">Email</div>
-                    <div className="font-medium">info@falconmedia.com</div>
+                    <div className="font-medium">info@www.falconmedya.com</div>
                   </div>
                 </a>
               </li>
