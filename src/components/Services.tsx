@@ -23,7 +23,7 @@ const services = [
   },
   {
     icon: MapPin,
-    title: "Destek",
+    title: "Kayıp Ödemeler",
     desc: "Herhangi Bir Firma-Site Tarafından Mağdur Olduysanız Bize Ulaşın Ödemenizi Geri Alalım",
     color: "green",
   },
