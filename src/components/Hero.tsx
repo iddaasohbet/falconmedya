@@ -7,8 +7,8 @@ export default function Hero() {
   const whatsappUrl = "https://wa.me/905373127839?text=" + encodeURIComponent("Merhaba, dijital güvenlik hizmetleriniz hakkında bilgi almak istiyorum.");
 
   return (
-    <section id="anasayfa" className="relative bg-gradient-to-br from-blue-50 via-white to-purple-50 pt-32 pb-20 px-6">
-      <div className="mx-auto max-w-7xl">
+    <section id="anasayfa" className="relative bg-gradient-to-br from-blue-50 via-white to-purple-50 pt-32 pb-20 px-6 z-0">
+      <div className="mx-auto max-w-7xl relative z-0">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div className="space-y-8">

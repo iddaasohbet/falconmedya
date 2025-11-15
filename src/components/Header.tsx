@@ -19,7 +19,7 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed top-0 z-50 w-full transition-all duration-300 ${
+      className={`fixed top-0 z-[100] w-full transition-all duration-300 ${
         scrolled
           ? "border-b border-gray-200 bg-white/95 shadow-sm backdrop-blur-sm"
           : "border-b border-transparent bg-white"
@@ -94,7 +94,7 @@ export default function Header() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-              className="fixed inset-0 bg-black/50 backdrop-blur-sm md:hidden z-40"
+              className="fixed inset-0 bg-black/50 backdrop-blur-sm md:hidden z-[90]"
               onClick={() => setOpen(false)}
             />
 
@@ -104,7 +104,7 @@ export default function Header() {
               animate={{ x: 0 }}
               exit={{ x: "100%" }}
               transition={{ type: "spring", damping: 30, stiffness: 300 }}
-              className="fixed right-0 top-0 bottom-0 w-80 bg-white shadow-2xl md:hidden z-50"
+              className="fixed right-0 top-0 bottom-0 w-80 bg-white shadow-2xl md:hidden z-[95]"
             >
               <div className="flex flex-col h-full">
                 {/* Menu Header */}
