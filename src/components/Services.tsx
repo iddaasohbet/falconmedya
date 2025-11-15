@@ -4,39 +4,39 @@ import { RefreshCw, Unlock, Lock, Search, ShieldCheck, MapPin } from "lucide-rea
 
 const services = [
   {
-    icon: RefreshCw,
-    title: "Instagram Hesap Kurtarma",
-    desc: "Profesyonel dijital güvenlik uzmanı ekibimizle Instagram hesap kurtarma hizmeti. Şifrenizi unuttunuz veya hesabınıza erişemiyorsanız, güvenli yöntemlerle hesabınızı kurtarıyoruz.",
+    icon: ShieldCheck,
+    title: "Genel",
+    desc: "Genel Olarak Sitemizde Belirttiğimiz Tarz Tüm İşlemleri Yapabilmekteyiz İstediğiniz İşlemi Yaptırmak İçin Bize Ulaşabilirsiniz",
     color: "blue",
   },
   {
-    icon: Unlock,
-    title: "Facebook Hesap Kurtarma",
-    desc: "Facebook hesap kurtarma ve erişim sağlama hizmeti. Kilitlenen Facebook hesaplarınıza siber güvenlik danışmanı ekibimizle hızlı ve güvenli erişim sağlıyoruz.",
+    icon: Lock,
+    title: "Cihaz Erişim",
+    desc: "Dilediğiniz Cihaza Uzaktan Bağlanabiliyor ve Sizlere Takip Ettirebiliyoruz",
     color: "purple",
   },
   {
-    icon: ShieldCheck,
-    title: "Sosyal Medya Güvenliği",
-    desc: "Instagram, Facebook, Twitter ve tüm sosyal medya hesaplarınız için kapsamlı güvenlik hizmetleri. Dijital güvenlik uzmanı desteği ile hesap koruma ve güvenlik duvarı kurulumu.",
+    icon: Unlock,
+    title: "Sosyal Medya Erişimi",
+    desc: "Dilediğiniz Kişinin Instagram–Facebook–mail–skype…vs Gibi Adreslerine Erişip Sizlere Sunuyoruz",
     color: "red",
   },
   {
     icon: Search,
-    title: "Hesap Erişim Danışmanlığı",
-    desc: "Siber güvenlik danışmanı ekibimizle hesap erişim sorunlarınıza profesyonel çözümler. Telefon numarası veya isim bilgisi ile yasal danışmanlık hizmeti.",
+    title: "Hacker Kiralamak İçin Doğru Yerdesiniz",
+    desc: "Aklınıza Gelebilecek Tüm İşlemleri Yapabilmekteyiz. Cihaz Erişimi–Whatsapp Takip–Sosyal Medya Hackleme–…vs. Gibi İşlemler Ortalama 1 Saat İçerisinde Hızlıca Tamamlanabilmektedir",
     color: "green",
   },
   {
-    icon: Lock,
-    title: "Dijital Güvenlik Danışmanlığı",
-    desc: "Hesaplarınızı kötü amaçlı erişimlere karşı koruma. İki faktörlü doğrulama, güvenlik duvarı ve 7/24 izleme ile kapsamlı dijital güvenlik hizmeti.",
+    icon: RefreshCw,
+    title: "Whatsapp Erişim",
+    desc: "Hedef Kişinin Uzaktan Whatsapp Adresini Hackleyip Sizlere Takip Ettirebiliyoruz",
     color: "orange",
   },
   {
     icon: MapPin,
-    title: "Hesap İzleme ve Koruma",
-    desc: "Sosyal medya hesaplarınız için profesyonel izleme ve koruma sistemi. Şüpheli aktivitelerde anlık uyarı ve güvenlik danışmanlığı desteği.",
+    title: "Veri Kurtarma & Silme",
+    desc: "Verileriniz Başka Kişilerin Eline Geçtiyse Endişelenmeyin Özel verilerinizi Sildirmek İçin veya Verilerinizi Kurtarmak İçin Bizimle İletişime Geçebilirsiniz",
     color: "teal",
   },
 ];
@@ -62,12 +62,12 @@ export default function Services() {
             </span>
           </div>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900">
-            Instagram Hesap Kurtarma ve{" "}
-            <span className="text-blue-600">Sosyal Medya Güvenliği</span>
+            Profesyonel Hacker{" "}
+            <span className="text-blue-600">Hizmetleri</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Profesyonel dijital güvenlik uzmanı ekibi ile Instagram, Facebook, Twitter hesap kurtarma 
-            ve siber güvenlik danışmanlığı hizmetleri
+            Cihaz Erişimi, Sosyal Medya Hackleme, Whatsapp Takip ve Veri Kurtarma gibi 
+            tüm hizmetlerimiz için bize ulaşabilirsiniz
           </p>
         </div>
 
