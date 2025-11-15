@@ -64,6 +64,7 @@ export default function RootLayout({
   return (
     <html lang="tr" className="overflow-x-hidden scrollbar-custom">
       <head>
+        <meta name="google-site-verification" content="I7woP0fDiHutNVU5IdNcavjq8WLw_kw3JsZNhhMSKlw" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
