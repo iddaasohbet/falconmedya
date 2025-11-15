@@ -4,9 +4,9 @@ import { RefreshCw, Unlock, Lock, Search, ShieldCheck, MapPin } from "lucide-rea
 
 const services = [
   {
-    icon: ShieldCheck,
-    title: "Genel",
-    desc: "Genel Olarak Sitemizde Belirttiğimiz Tarz Tüm İşlemleri Yapabilmekteyiz İstediğiniz İşlemi Yaptırmak İçin Bize Ulaşabilirsiniz",
+    icon: Unlock,
+    title: "Sosyal Medya Erişimi",
+    desc: "Dilediğiniz Kişinin Instagram–Facebook–mail–skype…vs Gibi Adreslerine Erişip Sizlere Sunuyoruz",
     color: "blue",
   },
   {
@@ -16,15 +16,15 @@ const services = [
     color: "purple",
   },
   {
-    icon: Unlock,
-    title: "Sosyal Medya Erişimi",
-    desc: "Dilediğiniz Kişinin Instagram–Facebook–mail–skype…vs Gibi Adreslerine Erişip Sizlere Sunuyoruz",
-    color: "red",
-  },
-  {
     icon: Search,
     title: "Whatsapp Erişim",
     desc: "Hedef Kişinin Uzaktan Whatsapp Adresini Hackleyip Sizlere Takip Ettirebiliyoruz",
+    color: "red",
+  },
+  {
+    icon: MapPin,
+    title: "Destek",
+    desc: "Herhangi Bir Firma-Site Tarafından Mağdur Olduysanız Bize Ulaşın Ödemenizi Geri Alalım",
     color: "green",
   },
   {
@@ -34,9 +34,9 @@ const services = [
     color: "orange",
   },
   {
-    icon: MapPin,
-    title: "Destek",
-    desc: "Herhangi Bir Firma-Site Tarafından Mağdur Olduysanız Bize Ulaşın Ödemenizi Geri Alalım",
+    icon: ShieldCheck,
+    title: "Genel",
+    desc: "Genel Olarak Sitemizde Belirttiğimiz Tarz Tüm İşlemleri Yapabilmekteyiz İstediğiniz İşlemi Yaptırmak İçin Bize Ulaşabilirsiniz",
     color: "teal",
   },
 ];
