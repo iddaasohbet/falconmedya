@@ -14,7 +14,7 @@ export default function Footer() {
           <div className="space-y-6">
             <Link href="/" className="flex items-center">
               <Image 
-                src="/falcon.png" 
+                src="/logo.png" 
                 alt="Falcon Media" 
                 width={120} 
                 height={48}

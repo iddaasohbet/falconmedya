@@ -30,7 +30,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center">
           <Image 
-            src="/falcon.png" 
+            src="/logo.png" 
             alt="Falcon Media" 
             width={120} 
             height={48}
