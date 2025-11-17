@@ -75,6 +75,16 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/kiralik-hacker" className="text-gray-600 hover:text-blue-600 transition-colors">
+                  Kiralık Hacker
+                </Link>
+              </li>
+              <li>
+                <Link href="/hacker-bul" className="text-gray-600 hover:text-blue-600 transition-colors">
+                  Hacker Bul
+                </Link>
+              </li>
+              <li>
                 <Link href="/#sss" className="text-gray-600 hover:text-blue-600 transition-colors">
                   Sıkça Sorulan Sorular
                 </Link>
