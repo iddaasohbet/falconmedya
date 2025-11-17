@@ -1,7 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { Shield, Mail, Phone, MapPin, Facebook, Twitter, Instagram, Linkedin } from "lucide-react";
+import Image from "next/image";
+import { Mail, Phone, MapPin, Facebook, Twitter, Instagram, Linkedin } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -11,18 +12,14 @@ export default function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Company Info */}
           <div className="space-y-6">
-            <Link href="/" className="flex items-center gap-3">
-              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-blue-600">
-                <Shield className="h-7 w-7 text-white" />
-              </div>
-              <div>
-                <span className="block text-xl font-bold text-gray-900">
-                  Falcon Media
-                </span>
-                <span className="block text-xs text-gray-500">
-                  Digital Services
-                </span>
-              </div>
+            <Link href="/" className="flex items-center">
+              <Image 
+                src="/falcon.png" 
+                alt="Falcon Media" 
+                width={120} 
+                height={48}
+                className="h-12 w-auto"
+              />
             </Link>
             <p className="text-gray-600 leading-relaxed">
               Dijital güvenliğiniz için profesyonel çözümler. Hesaplarınızın kontrolünü geri alın, güvende kalın.
@@ -164,7 +161,7 @@ export default function Footer() {
         <div className="mx-auto max-w-7xl px-6 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-gray-600">
-              © {new Date().getFullYear()} <span className="font-semibold text-gray-900">Falcon Media</span>. Tüm hakları saklıdır.
+              © {new Date().getFullYear()} Tüm hakları saklıdır.
             </p>
 
             <div className="flex gap-6 text-sm">

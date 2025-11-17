@@ -1,9 +1,10 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Menu, X, Shield, MessageCircle } from "lucide-react";
+import { Menu, X, MessageCircle } from "lucide-react";
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -27,18 +28,15 @@ export default function Header() {
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-3">
-          <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-blue-600">
-            <Shield className="h-7 w-7 text-white" />
-          </div>
-          <div>
-            <span className="block text-xl font-bold text-gray-900">
-              Falcon Media
-            </span>
-            <span className="block text-xs text-gray-500">
-              Digital Services
-            </span>
-          </div>
+        <Link href="/" className="flex items-center">
+          <Image 
+            src="/falcon.png" 
+            alt="Falcon Media" 
+            width={120} 
+            height={48}
+            className="h-12 w-auto"
+            priority
+          />
         </Link>
 
         {/* Desktop Navigation */}
