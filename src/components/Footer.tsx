@@ -166,6 +166,9 @@ export default function Footer() {
             </p>
 
             <div className="flex gap-6 text-sm">
+              <Link href="/hacker-bul" className="text-gray-600 hover:text-blue-600 transition-colors font-semibold">
+                Hacker Bul
+              </Link>
               <Link href="/gizlilik-politikasi" className="text-gray-600 hover:text-blue-600 transition-colors">
                 Gizlilik Politikası
               </Link>
