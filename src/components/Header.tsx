@@ -32,9 +32,10 @@ export default function Header() {
           <Image 
             src="/logo.png" 
             alt="Falcon Media" 
-            width={120} 
-            height={48}
+            width={240} 
+            height={96}
             className="h-12 w-auto"
+            quality={100}
             priority
           />
         </Link>
