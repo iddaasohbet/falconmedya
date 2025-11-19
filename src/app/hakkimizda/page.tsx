@@ -6,7 +6,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata = {
   title: "Hakkımızda | Dijital Güvenlik Uzmanı Ekibimiz",
-  description: "Kiralık Hacker - Dijital güvenlik uzmanı ve siber güvenlik danışmanı ekibimizle Instagram hesap kurtarma, sosyal medya güvenliği ve hesap koruma hizmetleri. %80 başarı oranı, 7/24 destek. Tel: 0537 312 78 39",
+  description: "Kiralık Hacker - Dijital güvenlik uzmanı ve siber güvenlik danışmanı ekibimizle Instagram hesap kurtarma, sosyal medya güvenliği ve hesap koruma hizmetleri. %80 başarı oranı, 7/24 destek. Tel: 0534 475 40 86",
   keywords: "dijital güvenlik uzmanı, siber güvenlik danışmanı, hesap kurtarma uzmanı, sosyal medya güvenlik uzmanı, instagram güvenlik",
 };
 
@@ -71,7 +71,7 @@ export default function HakkimizdaPage() {
                   Hizmetlerimiz
                 </Link>
                 <a
-                  href="https://wa.me/905373127839?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+                  href="https://wa.me/905344754086?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 rounded-lg border-2 border-gray-300 bg-white px-6 py-3 text-gray-900 font-semibold hover:border-green-600 transition-colors"
@@ -298,7 +298,7 @@ export default function HakkimizdaPage() {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <a
-              href="https://wa.me/905373127839?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+              href="https://wa.me/905344754086?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-lg bg-green-600 px-8 py-4 text-lg font-semibold text-white hover:bg-green-700 transition-colors shadow-lg"
@@ -330,7 +330,7 @@ export default function HakkimizdaPage() {
                   <Phone className="h-6 w-6 text-blue-600" />
                 </div>
                 <p className="text-sm text-gray-600 mb-1">Telefon</p>
-                <p className="font-semibold text-gray-900">0537 312 78 39</p>
+                <p className="font-semibold text-gray-900">0534 475 40 86</p>
               </div>
 
               <div className="bg-white rounded-xl p-6 border border-gray-200">

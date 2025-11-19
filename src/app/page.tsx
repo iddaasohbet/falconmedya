@@ -28,7 +28,7 @@ export default function Home() {
         },
         contactPoint: {
           "@type": "ContactPoint",
-          telephone: "+90-537-312-78-39",
+          telephone: "+90-534-475-40-86",
           contactType: "customer service",
           email: "info@www.falconmedya.com",
           areaServed: "TR",

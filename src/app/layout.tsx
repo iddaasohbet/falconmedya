@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     template: "%s | Kiralık Hacker",
   },
   description:
-    "Kiralık hacker, hacker bul, hacker arıyorum. Beyaz şapkalı hacker ve etik hacker hizmetleri. Instagram hesap kurtarma, Facebook hesap kurtarma, sosyal medya güvenliği, siber güvenlik danışmanlığı. Dijital güvenlik uzmanı ekibimizle 7/24 profesyonel destek. Tel: 0537 312 78 39",
+    "Kiralık hacker, hacker bul, hacker arıyorum. Beyaz şapkalı hacker ve etik hacker hizmetleri. Instagram hesap kurtarma, Facebook hesap kurtarma, sosyal medya güvenliği, siber güvenlik danışmanlığı. Dijital güvenlik uzmanı ekibimizle 7/24 profesyonel destek. Tel: 0534 475 40 86",
   keywords: [
     "hacker kirala",
     "kiralık hacker",

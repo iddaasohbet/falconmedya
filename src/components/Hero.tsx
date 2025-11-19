@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Shield, CheckCircle, Lock, Users, TrendingUp, Clock, Award, Star } from "lucide-react";
 
 export default function Hero() {
-  const whatsappUrl = "https://wa.me/905373127839?text=" + encodeURIComponent("Merhaba, dijital güvenlik hizmetleriniz hakkında bilgi almak istiyorum.");
+  const whatsappUrl = "https://wa.me/905344754086?text=" + encodeURIComponent("Merhaba, dijital güvenlik hizmetleriniz hakkında bilgi almak istiyorum.");
 
   return (
     <section id="anasayfa" className="relative bg-gradient-to-br from-blue-50 via-white to-purple-50 pt-32 pb-20 px-6 z-0">

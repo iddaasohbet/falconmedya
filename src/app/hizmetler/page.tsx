@@ -6,7 +6,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata = {
   title: "Dijital Güvenlik Hizmetleri | Instagram Hesap Kurtarma Uzmanı",
-  description: "Instagram hesap kurtarma, Facebook hesap kurtarma, sosyal medya güvenliği, hesap koruma ve dijital güvenlik danışmanlığı hizmetleri. Profesyonel dijital güvenlik uzmanı ekibi ile 7/24 destek. Tel: 0537 312 78 39",
+  description: "Instagram hesap kurtarma, Facebook hesap kurtarma, sosyal medya güvenliği, hesap koruma ve dijital güvenlik danışmanlığı hizmetleri. Profesyonel dijital güvenlik uzmanı ekibi ile 7/24 destek. Tel: 0534 475 40 86",
   keywords: "dijital güvenlik uzmanı, instagram hesap kurtarma, facebook hesap kurtarma, hesap kurtarma hizmeti, sosyal medya güvenliği, siber güvenlik danışmanı, hesap koruma",
 };
 
@@ -159,7 +159,7 @@ export default function HizmetlerPage() {
                     </div>
 
                     <a
-                      href="https://wa.me/905373127839?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+                      href="https://wa.me/905344754086?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
                       target="_blank"
                       rel="noopener noreferrer"
                       className={`inline-flex items-center gap-2 font-semibold ${colors.text} hover:gap-3 transition-all`}
@@ -194,7 +194,7 @@ export default function HizmetlerPage() {
             Uzman ekibimiz size yardımcı olmak için 7/24 hazır
           </p>
           <a
-            href="https://wa.me/905373127839?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+            href="https://wa.me/905344754086?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg bg-green-600 px-8 py-4 text-lg font-semibold text-white hover:bg-green-700 transition-colors shadow-lg"

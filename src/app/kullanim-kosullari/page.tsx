@@ -391,7 +391,7 @@ export default function KullanimKosullariPage() {
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5" />
-                  <span>0537 312 78 39</span>
+                  <span>0534 475 40 86</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <MapPin className="h-5 w-5" />

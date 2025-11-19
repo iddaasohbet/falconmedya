@@ -7,7 +7,7 @@ const faqs = [
   {
     question: "Instagram hesap kurtarma hizmeti nasıl çalışıyor?",
     answer:
-      "Dijital güvenlik uzmanı ekibimizle Instagram hesap kurtarma sürecimiz şöyle çalışır: Öncelikle hesap detaylarınızı alıyoruz. Ardından profesyonel siber güvenlik danışmanı ekibimiz, güvenli ve yasal yöntemlerle Instagram hesabınıza erişimi yeniden sağlamak için gerekli adımları atıyor. İşlem genellikle 24-48 saat içinde tamamlanır. 7/24 canlı destek: 0537 312 78 39",
+      "Dijital güvenlik uzmanı ekibimizle Instagram hesap kurtarma sürecimiz şöyle çalışır: Öncelikle hesap detaylarınızı alıyoruz. Ardından profesyonel siber güvenlik danışmanı ekibimiz, güvenli ve yasal yöntemlerle Instagram hesabınıza erişimi yeniden sağlamak için gerekli adımları atıyor. İşlem genellikle 24-48 saat içinde tamamlanır. 7/24 canlı destek: 0534 475 40 86",
   },
   {
     question: "Hangi sosyal medya platformları için hesap kurtarma hizmeti veriyorsunuz?",

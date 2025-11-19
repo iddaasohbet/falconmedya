@@ -62,7 +62,7 @@ export default function KVKKPage() {
                   </div>
                   <div className="flex items-center gap-3 text-gray-700">
                   <Phone className="h-5 w-5 text-blue-600 flex-shrink-0" />
-                  <span><strong>Telefon:</strong> 0537 312 78 39</span>
+                  <span><strong>Telefon:</strong> 0534 475 40 86</span>
                   </div>
                 </div>
               </div>
@@ -384,7 +384,7 @@ export default function KVKKPage() {
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5" />
-                  <span>0537 312 78 39</span>
+                  <span>0534 475 40 86</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <MapPin className="h-5 w-5" />

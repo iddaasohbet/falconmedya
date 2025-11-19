@@ -99,7 +99,7 @@ export default function Services() {
 
                 {/* CTA Link */}
                 <a
-                  href="https://wa.me/905373127839?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+                  href="https://wa.me/905344754086?text=Merhaba%2C%20dijital%20g%C3%BCvenlik%20hizmetleriniz%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`text-sm font-semibold ${colors.text} flex items-center gap-2 group-hover:gap-3 transition-all`}

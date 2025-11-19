@@ -139,7 +139,7 @@ export default function Footer() {
               </li>
               <li>
                 <a 
-                  href="tel:+905373127839" 
+                  href="tel:+905344754086" 
                   className="flex items-start gap-3 text-gray-600 hover:text-blue-600 transition-colors group"
                 >
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-blue-50 text-blue-600 flex-shrink-0">
@@ -147,7 +147,7 @@ export default function Footer() {
                   </div>
                   <div>
                     <div className="text-xs text-gray-500 mb-0.5">Telefon</div>
-                    <div className="font-medium">0537 312 78 39</div>
+                    <div className="font-medium">0534 475 40 86</div>
                   </div>
                 </a>
               </li>
