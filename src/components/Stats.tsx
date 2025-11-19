@@ -32,7 +32,7 @@ export default function Stats() {
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             Dijital Güvenlik Uzmanı{" "}
-            <span className="text-blue-600">Falcon Media</span>
+            <span className="text-blue-600">Kiralık Hacker</span>
           </h2>
           <p className="text-xl text-gray-600">
             Instagram hesap kurtarma ve sosyal medya güvenliği hizmetlerinde başarı oranımız

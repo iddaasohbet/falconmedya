@@ -15,7 +15,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center">
               <Image 
                 src="/logo.png" 
-                alt="Falcon Media" 
+                alt="Kiralık Hacker" 
                 width={240} 
                 height={96}
                 className="h-12 w-auto"

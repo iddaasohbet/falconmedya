@@ -6,7 +6,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata = {
   title: "Hakkımızda | Dijital Güvenlik Uzmanı Ekibimiz",
-  description: "Falcon Media - Dijital güvenlik uzmanı ve siber güvenlik danışmanı ekibimizle Instagram hesap kurtarma, sosyal medya güvenliği ve hesap koruma hizmetleri. %80 başarı oranı, 7/24 destek. Tel: 0537 312 78 39",
+  description: "Kiralık Hacker - Dijital güvenlik uzmanı ve siber güvenlik danışmanı ekibimizle Instagram hesap kurtarma, sosyal medya güvenliği ve hesap koruma hizmetleri. %80 başarı oranı, 7/24 destek. Tel: 0537 312 78 39",
   keywords: "dijital güvenlik uzmanı, siber güvenlik danışmanı, hesap kurtarma uzmanı, sosyal medya güvenlik uzmanı, instagram güvenlik",
 };
 
@@ -42,12 +42,12 @@ export default function HakkimizdaPage() {
               <div className="flex items-center gap-3 mb-6">
                 <Shield className="h-8 w-8 text-blue-600" />
                 <h2 className="text-4xl font-bold text-gray-900">
-                  Falcon Media
+                  Kiralık Hacker
                 </h2>
               </div>
               <div className="space-y-4 text-gray-700 leading-relaxed">
                 <p>
-                  <strong>Falcon Media</strong> olarak, dijital güvenlik ve hesap yönetimi alanında 
+                  <strong>Kiralık Hacker</strong> olarak, dijital güvenlik ve hesap yönetimi alanında 
                   profesyonel çözümler sunuyoruz. Müşterilerimizin dijital varlıklarının güvenliğini 
                   sağlamak ve hesap yönetimi konusunda destek olmak için 7/24 hizmet vermekteyiz.
                 </p>
@@ -160,7 +160,7 @@ export default function HakkimizdaPage() {
             <div className="text-center mb-12">
               <div className="flex items-center justify-center gap-3 mb-4">
                 <Eye className="h-8 w-8 text-blue-600" />
-                <h2 className="text-4xl font-bold text-gray-900">Neden Falcon Media?</h2>
+                <h2 className="text-4xl font-bold text-gray-900">Neden Kiralık Hacker?</h2>
               </div>
               <p className="text-xl text-gray-600">
                 Bizi tercih etmeniz için önemli sebepler
@@ -235,7 +235,7 @@ export default function HakkimizdaPage() {
             <div className="text-center mb-12">
               <div className="flex items-center justify-center gap-3 mb-4">
                 <TrendingUp className="h-8 w-8" />
-                <h2 className="text-4xl font-bold">Rakamlarla Falcon Media</h2>
+                <h2 className="text-4xl font-bold">Rakamlarla Kiralık Hacker</h2>
               </div>
               <p className="text-xl text-blue-100">
                 Başarılarımız ve hizmet kalitemiz

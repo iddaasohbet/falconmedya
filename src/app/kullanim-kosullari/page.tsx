@@ -5,7 +5,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata = {
   title: "Kullanım Koşulları | Dijital Güvenlik Hizmet Şartları",
-  description: "Falcon Media kullanım koşulları ve hizmet şartları. Dijital güvenlik, hesap kurtarma ve sosyal medya güvenliği hizmetleri kullanım koşulları ve yasal çerçeve.",
+  description: "Kiralık Hacker kullanım koşulları ve hizmet şartları. Dijital güvenlik, hesap kurtarma ve sosyal medya güvenliği hizmetleri kullanım koşulları ve yasal çerçeve.",
   keywords: "kullanım koşulları, hizmet şartları, dijital güvenlik, yasal şartlar",
 };
 
@@ -29,7 +29,7 @@ export default function KullanimKosullariPage() {
             Son Güncelleme: 14 Kasım 2024
           </p>
           <p className="text-lg text-gray-600 mt-4">
-            Bu kullanım koşulları, Falcon Media web sitesi ve hizmetlerinin kullanımına ilişkin 
+            Bu kullanım koşulları, Kiralık Hacker web sitesi ve hizmetlerinin kullanımına ilişkin 
             şartları ve koşulları belirlemektedir. Web sitemizi kullanarak bu koşulları kabul 
             etmiş sayılırsınız.
           </p>
@@ -46,7 +46,7 @@ export default function KullanimKosullariPage() {
                 <h2 className="text-3xl font-bold text-gray-900">1. Genel Hükümler ve Tanımlar</h2>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                İşbu Kullanım Koşulları ("Sözleşme"), <strong>Falcon Media</strong> ("Şirket", "biz", "bizim") 
+                İşbu Kullanım Koşulları ("Sözleşme"), <strong>Kiralık Hacker</strong> ("Şirket", "biz", "bizim") 
                 tarafından sunulan web sitesi ve hizmetlerin kullanımına ilişkin şartları düzenlemektedir.
               </p>
               
@@ -79,7 +79,7 @@ export default function KullanimKosullariPage() {
                 <h2 className="text-3xl font-bold text-gray-900">2. Hizmetin Kapsamı ve Kullanım Şartları</h2>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Falcon Media, aşağıdaki hizmetleri sunmaktadır:
+                Kiralık Hacker, aşağıdaki hizmetleri sunmaktadır:
               </p>
               
               <div className="grid md:grid-cols-2 gap-4">
@@ -194,7 +194,7 @@ export default function KullanimKosullariPage() {
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
                 Web sitemizdeki tüm içerik, tasarım, logo, metin, grafik, yazılım ve diğer materyaller 
-                Falcon Media'nın mülkiyetindedir ve fikri mülkiyet yasaları ile korunmaktadır.
+                Kiralık Hacker'ın mülkiyetindedir ve fikri mülkiyet yasaları ile korunmaktadır.
               </p>
               
               <div className="border-l-4 border-blue-600 bg-blue-50 p-6 rounded-r-lg">
@@ -271,7 +271,7 @@ export default function KullanimKosullariPage() {
               
               <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6 mb-4">
                 <p className="text-gray-800 leading-relaxed">
-                  Falcon Media, hizmetlerin kullanımından kaynaklanan dolaylı, arızi, özel veya cezai 
+                  Kiralık Hacker, hizmetlerin kullanımından kaynaklanan dolaylı, arızi, özel veya cezai 
                   zararlardan sorumlu tutulamaz. Hizmetler "olduğu gibi" sunulmaktadır.
                 </p>
               </div>
@@ -307,7 +307,7 @@ export default function KullanimKosullariPage() {
                 <h2 className="text-3xl font-bold text-gray-900">7. Hizmet Değişiklikleri ve Sonlandırma</h2>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Falcon Media, aşağıdaki haklara sahiptir:
+                Kiralık Hacker, aşağıdaki haklara sahiptir:
               </p>
               
               <div className="space-y-3">
@@ -368,7 +368,7 @@ export default function KullanimKosullariPage() {
                 <h2 className="text-3xl font-bold text-gray-900">9. Kullanım Koşullarında Değişiklikler</h2>
               </div>
               <p className="text-gray-700 leading-relaxed">
-                Falcon Media, bu Kullanım Koşullarını dilediği zaman değiştirme hakkını saklı tutar. 
+                Kiralık Hacker, bu Kullanım Koşullarını dilediği zaman değiştirme hakkını saklı tutar. 
                 Değişiklikler bu sayfada yayınlandıktan sonra yürürlüğe girer. Önemli değişiklikler 
                 durumunda kullanıcılar uygun yöntemlerle bilgilendirilecektir. Hizmetleri kullanmaya 
                 devam ederek güncellenmiş koşulları kabul etmiş sayılırsınız.

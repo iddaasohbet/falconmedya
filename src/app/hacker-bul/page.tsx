@@ -247,10 +247,10 @@ export default function HackerBulPage() {
             </div>
           </section>
 
-          {/* FalconMedya */}
+          {/* Kiralık Hacker */}
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6 border-b-4 border-blue-600 pb-3">
-              FalconMedya.com Neden Tercih Ediliyor?
+              Kiralık Hacker Neden Tercih Ediliyor?
             </h2>
             
             <div className="prose prose-lg max-w-none">
@@ -259,7 +259,7 @@ export default function HackerBulPage() {
               </p>
 
               <div className="bg-gradient-to-br from-blue-50 to-white border-2 border-blue-200 rounded-xl p-8 mb-8">
-                <h3 className="text-2xl font-bold text-gray-900 mb-6">FalconMedya'nın sunduğu profesyonel çözümler:</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-6">Kiralık Hacker'ın sunduğu profesyonel çözümler:</h3>
                 <div className="grid md:grid-cols-2 gap-4">
                   <div className="flex items-center gap-2">
                     <span className="text-blue-600 font-bold">✔</span>
@@ -469,7 +469,7 @@ export default function HackerBulPage() {
             
             <div className="prose prose-lg max-w-none">
               <div className="bg-gradient-to-br from-blue-600 to-blue-700 text-white rounded-2xl p-8 shadow-xl">
-                <h3 className="text-2xl font-bold mb-4">FalconMedya.com</h3>
+                <h3 className="text-2xl font-bold mb-4">Kiralık Hacker</h3>
                 <p className="text-lg mb-6">
                   "hacker bul, kiralık hacker, hacker arıyorum" yazan kişilerin yaşadığı sorunları tamamen yasal – güvenli – kurumsal yöntemlerle çözen profesyonel bir platformdur.
                 </p>
@@ -544,5 +544,9 @@ export default function HackerBulPage() {
     </>
   );
 }
+
+
+
+
 
 

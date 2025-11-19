@@ -177,7 +177,7 @@ export default function KiralikHackerPage() {
               </p>
 
               <div className="bg-gradient-to-br from-blue-50 to-white border-2 border-blue-200 rounded-xl p-8 mb-8">
-                <h3 className="text-2xl font-bold text-gray-900 mb-6">Falcon Media'nın Sunduğu Hizmetler:</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-6">Kiralık Hacker'ın Sunduğu Hizmetler:</h3>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <div className="flex-shrink-0 w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white font-bold">1</div>
@@ -359,19 +359,19 @@ export default function KiralikHackerPage() {
             </div>
           </section>
 
-          {/* FalconMedya */}
+          {/* Kiralık Hacker */}
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6 border-b-4 border-blue-600 pb-3">
-              FalconMedya – Güvenilir Profesyonel Kiralık Hacker Hizmeti
+              Kiralık Hacker – Güvenilir Profesyonel Hizmet
             </h2>
             
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-700 leading-relaxed mb-6">
-                <strong className="text-blue-600">FalconMedya.com</strong>, Türkiye'nin güvenilir ve kurumsal siber güvenlik platformlarından biridir.
+                <strong className="text-blue-600">Kiralık Hacker</strong>, Türkiye'nin güvenilir ve kurumsal siber güvenlik platformlarından biridir.
               </p>
 
               <div className="bg-gradient-to-br from-blue-600 to-purple-600 text-white rounded-2xl p-8 shadow-xl mb-8">
-                <h3 className="text-2xl font-bold mb-6">Neden FalconMedya?</h3>
+                <h3 className="text-2xl font-bold mb-6">Neden Kiralık Hacker?</h3>
                 <div className="grid md:grid-cols-2 gap-4">
                   <div className="flex items-center gap-3">
                     <span className="text-3xl">✔</span>
@@ -483,7 +483,7 @@ export default function KiralikHackerPage() {
             <div className="bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-2xl p-10 text-center shadow-2xl">
               <h2 className="text-3xl font-bold mb-4">Profesyonel Yardım Alın</h2>
               <p className="text-xl mb-8 max-w-2xl mx-auto">
-                Kiralık hacker arıyorsanız, doğru adrestesiniz. FalconMedya ile güvenli, hızlı ve profesyonel çözümler için hemen iletişime geçin.
+                Kiralık hacker arıyorsanız, doğru adrestesiniz. Güvenli, hızlı ve profesyonel çözümler için hemen iletişime geçin.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link 
@@ -538,4 +538,8 @@ export default function KiralikHackerPage() {
     </>
   );
 }
+
+
+
+
 

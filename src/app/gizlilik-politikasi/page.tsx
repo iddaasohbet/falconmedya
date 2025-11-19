@@ -5,7 +5,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata = {
   title: "Gizlilik Politikası | KVKK Uyumlu Dijital Güvenlik",
-  description: "Falcon Media gizlilik politikası. Dijital güvenlik uzmanı olarak kişisel verilerinizin korunması ve KVKK uyumlu veri işleme prosedürlerimiz hakkında detaylı bilgi.",
+  description: "Kiralık Hacker gizlilik politikası. Dijital güvenlik uzmanı olarak kişisel verilerinizin korunması ve KVKK uyumlu veri işleme prosedürlerimiz hakkında detaylı bilgi.",
   keywords: "gizlilik politikası, KVKK, kişisel veri koruması, dijital güvenlik, veri güvenliği",
 };
 
@@ -29,7 +29,7 @@ export default function GizlilikPolitikasiPage() {
             Son Güncelleme: 14 Kasım 2024
           </p>
           <p className="text-lg text-gray-600 mt-4">
-            Falcon Media olarak, kişisel verilerinizin güvenliğine ve gizliliğine büyük önem veriyoruz. 
+            Kiralık Hacker olarak, kişisel verilerinizin güvenliğine ve gizliliğine büyük önem veriyoruz. 
             Bu gizlilik politikası, hizmetlerimizi kullanırken kişisel verilerinizin nasıl toplandığını, 
             kullanıldığını, saklandığını ve korunduğunu açıklamaktadır.
           </p>
@@ -47,7 +47,7 @@ export default function GizlilikPolitikasiPage() {
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
                 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında, 
-                kişisel verileriniz veri sorumlusu sıfatıyla <strong>Falcon Media</strong> tarafından 
+                kişisel verileriniz veri sorumlusu sıfatıyla <strong>Kiralık Hacker</strong> tarafından 
                 aşağıda açıklanan şartlar ve amaçlar dahilinde işlenmektedir.
               </p>
               <div className="bg-gray-50 border-l-4 border-blue-600 p-6 rounded-r-lg">
@@ -180,7 +180,7 @@ export default function GizlilikPolitikasiPage() {
                 <h2 className="text-3xl font-bold text-gray-900">4. Veri Güvenliği</h2>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Falcon Media olarak, kişisel verilerinizin güvenliğini sağlamak için 
+                Kiralık Hacker olarak, kişisel verilerinizin güvenliğini sağlamak için 
                 teknik ve idari tedbirler almaktayız:
               </p>
               <div className="grid md:grid-cols-2 gap-4">

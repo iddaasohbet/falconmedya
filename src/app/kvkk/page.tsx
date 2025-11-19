@@ -5,7 +5,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata = {
   title: "KVKK Aydınlatma Metni | Kişisel Veri Koruma",
-  description: "Falcon Media KVKK aydınlatma metni. 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında dijital güvenlik hizmetlerinde kişisel veri işleme prosedürleri ve haklarınız.",
+  description: "Kiralık Hacker KVKK aydınlatma metni. 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında dijital güvenlik hizmetlerinde kişisel veri işleme prosedürleri ve haklarınız.",
   keywords: "KVKK, kişisel verilerin korunması, veri güvenliği, dijital güvenlik, kişisel veri hakları",
 };
 
@@ -29,7 +29,7 @@ export default function KVKKPage() {
             6698 Sayılı Kişisel Verilerin Korunması Kanunu Kapsamında Bilgilendirme
           </p>
           <p className="text-lg text-gray-600 mt-4">
-            Falcon Media olarak, 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında 
+            Kiralık Hacker olarak, 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında 
             kişisel verilerinizin işlenmesine ilişkin aydınlatma yükümlülüğümüzü yerine getirmek amacıyla 
             bu metni hazırlamış bulunmaktayız.
           </p>
@@ -46,7 +46,7 @@ export default function KVKKPage() {
                 <h2 className="text-3xl font-bold text-gray-900">1. Veri Sorumlusu ve Temsilcisi</h2>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                KVKK uyarınca, kişisel verileriniz; veri sorumlusu sıfatıyla <strong>Falcon Media</strong> 
+                KVKK uyarınca, kişisel verileriniz; veri sorumlusu sıfatıyla <strong>Kiralık Hacker</strong> 
                 ("Şirket") tarafından aşağıda açıklanan kapsamda işlenebilecektir.
               </p>
               <div className="bg-gray-50 border-l-4 border-blue-600 p-6 rounded-r-lg">

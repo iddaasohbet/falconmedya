@@ -14,7 +14,7 @@ export default function Home() {
       {
         "@type": "Organization",
         "@id": "https://www.falconmedya.com/#organization",
-        name: "Falcon Media",
+        name: "Kiralık Hacker",
         url: "https://www.falconmedya.com",
         logo: {
           "@type": "ImageObject",
@@ -39,7 +39,7 @@ export default function Home() {
         "@type": "WebSite",
         "@id": "https://www.falconmedya.com/#website",
         url: "https://www.falconmedya.com",
-        name: "Falcon Media - Dijital Güvenlik Uzmanı",
+        name: "Kiralık Hacker - Dijital Güvenlik Uzmanı",
         description: "Instagram hesap kurtarma, Facebook hesap kurtarma ve dijital güvenlik hizmetleri",
         publisher: {
           "@id": "https://www.falconmedya.com/#organization",

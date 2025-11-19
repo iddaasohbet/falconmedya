@@ -10,8 +10,8 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "Kiralık Hacker | Hacker Bul | Hacker Arıyorum | Beyaz Şapkalı Hacker | Dijital Güvenlik Uzmanı | Etik Hacker - Falcon Media",
-    template: "%s | Falcon Media - Kiralık Hacker | Hacker Bul",
+    default: "Kiralık Hacker | Hacker Kirala | Hacker Bul | Beyaz Şapkalı Hacker | Dijital Güvenlik Uzmanı",
+    template: "%s | Kiralık Hacker",
   },
   description:
     "Kiralık hacker, hacker bul, hacker arıyorum. Beyaz şapkalı hacker ve etik hacker hizmetleri. Instagram hesap kurtarma, Facebook hesap kurtarma, sosyal medya güvenliği, siber güvenlik danışmanlığı. Dijital güvenlik uzmanı ekibimizle 7/24 profesyonel destek. Tel: 0537 312 78 39",
@@ -49,9 +49,9 @@ export const metadata: Metadata = {
     "siber güvenlik hizmeti",
     "bilgi güvenliği danışmanı",
   ],
-  authors: [{ name: "Falcon Media - Dijital Güvenlik Uzmanı" }],
-  creator: "Falcon Media",
-  publisher: "Falcon Media",
+  authors: [{ name: "Kiralık Hacker - Dijital Güvenlik Uzmanı" }],
+  creator: "Kiralık Hacker",
+  publisher: "Kiralık Hacker",
   robots: {
     index: true,
     follow: true,
@@ -64,10 +64,10 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Kiralık Hacker | Hacker Bul | Hacker Arıyorum | Beyaz Şapkalı Hacker",
+    title: "Kiralık Hacker | Hacker Kirala | Beyaz Şapkalı Hacker",
     description: "Kiralık hacker, hacker bul, hacker arıyorum. Instagram, Facebook, Twitter hesap kurtarma ve dijital güvenlik hizmetleri. Profesyonel ekip, 7/24 destek.",
     url: "https://www.falconmedya.com",
-    siteName: "Falcon Media",
+    siteName: "Kiralık Hacker",
     locale: "tr_TR",
     type: "website",
   },
