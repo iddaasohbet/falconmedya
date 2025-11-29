@@ -5,27 +5,77 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Hacker Bul – Kiralık Hacker – Hacker Arıyorum (2025 En Profesyonel Çözüm Rehberi)",
-  description: '"Hacker bul", "kiralık hacker", "hacker arıyorum" diyenler için güvenilir, hızlı ve profesyonel çözüm yolları. Hesap kurtarma, siber güvenlik desteği ve uzman yardımı.',
+  title: "🔥 Hacker Bul | Güvenilir Hacker Nasıl Bulunur | Profesyonel Hacker Kirala | Hacker Arıyorum | Hacker Tutmak | Instagram Hesabı Çalındı Acil Yardım (2025)",
+  description: '💥 Hacker bul, güvenilir hacker nasıl bulunur? Profesyonel hacker kirala, hacker arıyorum, hacker tutmak. Instagram hesabı çalındı, Facebook hesap kurtarma, WhatsApp çalındı acil yardım. Beyaz şapkalı hacker (white hat hacker), etik hacker hizmetleri. Web sitesi hacklendi ne yapmalı? Siber güvenlik uzmanı, penetrasyon testi, DDoS koruma. 7/24 güvenilir profesyonel destek. Tel: 0534 475 40 86',
   keywords: [
+    // Ana Hacker Kelimeleri - MEGA HARD
     "hacker bul",
+    "güvenilir hacker bul",
+    "hacker nasıl bulunur",
+    "profesyonel hacker bul",
     "kiralık hacker",
+    "profesyonel hacker kirala",
+    "güvenilir hacker kirala",
     "hacker arıyorum",
-    "profesyonel hacker",
-    "etik hacker",
-    "hesap kurtarma",
-    "instagram hesap kurtarma",
-    "web sitesi güvenliği",
-    "siber güvenlik uzmanı",
+    "hacker tutmak",
+    "hacker nasıl tutulur",
+    "beyaz şapkalı hacker bul",
+    "etik hacker bul",
+    "white hat hacker türkiye",
+    
+    // Hesap Kurtarma - LONG TAIL
+    "instagram hesabı çalındı acil yardım",
+    "instagram hesap kurtarma uzmanı",
+    "facebook hesabım çalındı ne yapmalıyım",
+    "whatsapp çalındı hacker",
+    "gmail hesap kurtarma hacker",
+    "sosyal medya hesap çalındı yardım",
+    
+    // Siber Güvenlik
+    "siber güvenlik uzmanı bul",
+    "siber güvenlik danışmanı kirala",
+    "web sitesi hacklendi yardım",
+    "penetrasyon testi uzmanı",
+    "sızma testi hizmeti",
+    
+    // Lokasyon
+    "istanbul hacker bul",
+    "ankara siber güvenlik uzmanı",
+    "izmir hacker kirala",
+    "türkiye güvenilir hacker",
   ],
   openGraph: {
-    title: "Hacker Bul – Kiralık Hacker – Hacker Arıyorum (2025 Profesyonel Rehber)",
-    description: "Hacker bul, kiralık hacker, hacker arıyorum diyenler için güvenilir ve profesyonel çözüm yolları.",
+    title: "🔥 Hacker Bul | Güvenilir Hacker Nasıl Bulunur | Profesyonel Hacker Kirala | Instagram Hesabı Çalındı",
+    description: "Güvenilir hacker bul! Instagram hesabı çalındı, Facebook, WhatsApp hesap kurtarma. Profesyonel hacker kirala, beyaz şapkalı hacker. 7/24 acil destek.",
     type: "article",
+    url: "https://www.falconmedya.com/hacker-bul",
+    siteName: "Kiralık Hacker",
+    locale: "tr_TR",
+    images: [
+      {
+        url: "https://www.falconmedya.com/hacker-bul-og.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Hacker Bul - Güvenilir Profesyonel Hacker Kirala",
+      },
+    ],
+    publishedTime: "2025-01-15T00:00:00.000Z",
+    modifiedTime: new Date().toISOString(),
+    authors: ["Kiralık Hacker"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "🔥 Hacker Bul | Güvenilir Hacker Nasıl Bulunur | Instagram Hesabı Çalındı",
+    description: "Profesyonel hacker kirala! Instagram, Facebook, WhatsApp hesap kurtarma. Güvenilir hacker bul. 7/24 destek.",
+    images: ["https://www.falconmedya.com/hacker-bul-twitter.jpg"],
+    creator: "@KiralikHacker",
   },
   alternates: {
     canonical: "https://www.falconmedya.com/hacker-bul",
   },
+  authors: [{ name: "Kiralık Hacker - Siber Güvenlik Uzmanı" }],
+  category: "Cybersecurity",
+  classification: "Ethical Hacking, Digital Security, Account Recovery",
 };
 
 export default function HackerBulPage() {

@@ -18,18 +18,22 @@ export default function Hero() {
             </div>
 
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 leading-tight">
-              Dijital Güvenlik Uzmanı ile{" "}
-              <span className="text-blue-600">
-                Instagram Hesap Kurtarma
-              </span>{" "}
-              ve Sosyal Medya Güvenliği
+              <span className="text-blue-600">Profesyonel Kiralık Hacker</span> ile{" "}
+              <span className="text-gray-900">Instagram Hesabı Çalındı</span>,{" "}
+              <span className="text-blue-600">Facebook Hesap Kurtarma</span>{" "}
+              ve <span className="text-gray-900">Beyaz Şapkalı Hacker</span> Hizmetleri
             </h1>
 
             <p className="text-xl text-gray-600 leading-relaxed">
-              <strong>Profesyonel dijital güvenlik uzmanı</strong> ekibimizle <strong>Instagram hesap kurtarma</strong>, 
-              <strong> Facebook hesap kurtarma</strong>, <strong>Twitter hesap kurtarma</strong> ve 
-              <strong> sosyal medya güvenliği</strong> hizmetleri. Siber güvenlik danışmanı desteği ile 
-              hesaplarınızın kontrolünü geri alın.
+              🔥 <strong className="text-gray-900">Instagram hesabı çalındı mı? Facebook hesabım çalındı? WhatsApp çalındı?</strong> 
+              {" "}<strong className="text-blue-600">Profesyonel hacker kirala</strong>, <strong>güvenilir hacker bul</strong>! 
+              {" "}<strong>Beyaz şapkalı hacker (white hat hacker)</strong>, <strong>etik hacker</strong>, 
+              <strong> siber güvenlik uzmanı</strong> ekibimizle <strong>Instagram hesap kurtarma</strong>, 
+              <strong> Facebook hesap kurtarma</strong>, <strong>WhatsApp hesap kurtarma</strong>, 
+              <strong> Gmail şifre kurtarma</strong>, <strong>TikTok hesap kurtarma</strong> hizmetleri. 
+              {" "}<strong>Web sitesi hacklendi ne yapmalı?</strong> DDoS koruma, penetrasyon testi, veri kurtarma, 
+              ransomware kaldırma. <strong className="text-blue-600">Siber güvenlik danışmanı</strong> desteği ile 
+              tüm sosyal medya hesaplarınızın kontrolünü geri alın. 7/24 acil profesyonel destek!
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">

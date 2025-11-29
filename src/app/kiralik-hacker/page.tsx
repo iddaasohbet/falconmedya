@@ -5,29 +5,104 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Kiralık Hacker – Profesyonel Etik Hacker Hizmeti (2025 Güvenilir Çözümler)",
-  description: 'Kiralık hacker, profesyonel etik hacker ve beyaz şapkalı hacker hizmetleri. Hesap kurtarma, siber güvenlik, sosyal medya güvenliği ve dijital koruma çözümleri. 7/24 uzman destek.',
+  title: "💥 Kiralık Hacker | Profesyonel Hacker Kirala | Güvenilir Beyaz Şapkalı Hacker | Etik Hacker | Instagram Hesabı Çalındı | Facebook Hesap Kurtarma | Siber Güvenlik Uzmanı (2025)",
+  description: '🔥 Kiralık hacker, profesyonel hacker kirala, güvenilir hacker tutmak. Instagram hesabı çalındı acil çözüm! Facebook hesap kurtarma, WhatsApp çalındı, Gmail şifre kurtarma. Beyaz şapkalı hacker (white hat hacker), etik hacker, siber güvenlik uzmanı. Web sitesi hacklendi ne yapmalı? DDoS koruma, penetrasyon testi, veri kurtarma, ransomware kaldırma. İstanbul, Ankara, İzmir siber güvenlik danışmanlığı. 7/24 profesyonel uzman destek. Tel: 0534 475 40 86',
   keywords: [
+    // Kiralık Hacker - ULTRA HARD
     "kiralık hacker",
-    "profesyonel hacker",
-    "etik hacker",
-    "beyaz şapkalı hacker",
-    "hacker kirala",
-    "hesap kurtarma uzmanı",
-    "siber güvenlik uzmanı",
-    "instagram hesap kurtarma",
-    "facebook hesap kurtarma",
-    "sosyal medya güvenliği",
-    "dijital güvenlik danışmanı",
+    "profesyonel kiralık hacker",
+    "güvenilir kiralık hacker",
+    "profesyonel hacker kirala",
+    "güvenilir hacker kirala",
+    "hacker kirala türkiye",
+    "hacker tutmak",
+    "hacker nasıl kiralanır",
+    "beyaz şapkalı hacker kirala",
+    "white hat hacker türkiye",
+    "etik hacker kirala",
+    "etik hacker hizmeti",
+    
+    // Sosyal Medya - MEGA LONG TAIL
+    "instagram hesabı çalındı hacker",
+    "instagram hesap kurtarma hacker",
+    "instagram şifre kurtarma hacker",
+    "facebook hesabım çalındı hacker",
+    "facebook hesap kurtarma uzmanı",
+    "whatsapp çalındı hacker",
+    "whatsapp hesap kurtarma",
+    "gmail hesap kurtarma hacker",
+    "twitter hesap kurtarma hacker",
+    "tiktok hesap kurtarma",
+    "discord hesap kurtarma",
+    "telegram hesap kurtarma",
+    
+    // Siber Güvenlik Uzmanı
+    "siber güvenlik uzmanı kirala",
+    "siber güvenlik danışmanı",
+    "dijital güvenlik uzmanı",
+    "bilgi güvenliği uzmanı",
+    "penetrasyon testi uzmanı",
+    "sızma testi uzmanı",
+    "web güvenlik uzmanı",
+    
+    // Web & Saldırı
+    "web sitesi hacklendi hacker",
+    "web sitesi güvenlik testi",
+    "ddos koruma hizmeti",
+    "siber saldırı önleme",
+    "zararlı yazılım temizleme",
+    "ransomware kaldırma hacker",
+    "malware temizleme",
+    
+    // Veri & Şifre
+    "veri kurtarma hacker",
+    "veri kurtarma uzmanı",
+    "şifre kırma hizmeti",
+    "şifreli dosya açma",
+    
+    // Acil Durumlar
+    "hesabım çalındı acil hacker",
+    "sosyal medya çalındı yardım",
+    "şantaj yapılıyor hacker yardım",
+    
+    // Lokasyon
+    "istanbul kiralık hacker",
+    "ankara siber güvenlik uzmanı",
+    "izmir hacker kirala",
+    "istanbul beyaz şapkalı hacker",
   ],
   openGraph: {
-    title: "Kiralık Hacker – Profesyonel Etik Hacker Hizmeti (2025)",
-    description: "Kiralık hacker, profesyonel etik hacker ve beyaz şapkalı hacker hizmetleri. Güvenilir uzman desteği.",
+    title: "💥 Profesyonel Kiralık Hacker | Güvenilir Hacker Kirala | Instagram Hesabı Çalındı | Beyaz Şapkalı Hacker",
+    description: "Kiralık hacker! Instagram, Facebook, WhatsApp hesap kurtarma. Beyaz şapkalı hacker, etik hacker, siber güvenlik uzmanı. Web sitesi hacklendi çözümü. 7/24 acil destek.",
     type: "article",
+    url: "https://www.falconmedya.com/kiralik-hacker",
+    siteName: "Kiralık Hacker - Profesyonel Dijital Güvenlik",
+    locale: "tr_TR",
+    images: [
+      {
+        url: "https://www.falconmedya.com/kiralik-hacker-og.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Kiralık Hacker - Profesyonel Beyaz Şapkalı Hacker Kirala",
+      },
+    ],
+    publishedTime: "2025-01-15T00:00:00.000Z",
+    modifiedTime: new Date().toISOString(),
+    authors: ["Kiralık Hacker"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "💥 Kiralık Hacker | Profesyonel Hacker Kirala | Instagram Hesabı Çalındı",
+    description: "Güvenilir kiralık hacker! Instagram, Facebook, WhatsApp kurtarma. Beyaz şapkalı hacker. 7/24 destek. Tel: 0534 475 40 86",
+    images: ["https://www.falconmedya.com/kiralik-hacker-twitter.jpg"],
+    creator: "@KiralikHacker",
   },
   alternates: {
     canonical: "https://www.falconmedya.com/kiralik-hacker",
   },
+  authors: [{ name: "Kiralık Hacker - Siber Güvenlik Uzmanı" }],
+  category: "Cybersecurity",
+  classification: "Ethical Hacking, White Hat Hacker, Digital Security, Professional Hacker Services",
 };
 
 export default function KiralikHackerPage() {

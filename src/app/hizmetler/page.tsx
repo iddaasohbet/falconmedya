@@ -5,9 +5,125 @@ import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata = {
-  title: "Dijital Güvenlik Hizmetleri | Instagram Hesap Kurtarma Uzmanı",
-  description: "Instagram hesap kurtarma, Facebook hesap kurtarma, sosyal medya güvenliği, hesap koruma ve dijital güvenlik danışmanlığı hizmetleri. Profesyonel dijital güvenlik uzmanı ekibi ile 7/24 destek. Tel: 0534 475 40 86",
-  keywords: "dijital güvenlik uzmanı, instagram hesap kurtarma, facebook hesap kurtarma, hesap kurtarma hizmeti, sosyal medya güvenliği, siber güvenlik danışmanı, hesap koruma",
+  title: "🔥 Dijital Güvenlik Hizmetleri | Instagram Hesabı Çalındı | Facebook Hesap Kurtarma | WhatsApp Kurtarma | Gmail Şifre | Profesyonel Hacker Kirala | Siber Güvenlik Uzmanı | Web Sitesi Hacklendi",
+  description: "💥 Instagram hesabı çalındı acil kurtarma! Facebook hesap kurtarma, WhatsApp çalındı, Gmail şifre kurtarma, TikTok hesap kurtarma. Profesyonel hacker kirala, beyaz şapkalı hacker, etik hacker hizmetleri. Web sitesi hacklendi ne yapmalı? DDoS koruma, penetrasyon testi, veri kurtarma, ransomware kaldırma, zararlı yazılım temizleme. Sosyal medya güvenliği, hesap koruma, şantaj durumları. İstanbul, Ankara, İzmir siber güvenlik danışmanı. 7/24 profesyonel dijital güvenlik uzmanı destek. Tel: 0534 475 40 86",
+  keywords: [
+    // Dijital Güvenlik Uzmanı
+    "dijital güvenlik uzmanı",
+    "dijital güvenlik hizmetleri",
+    "siber güvenlik uzmanı",
+    "siber güvenlik danışmanı",
+    "bilgi güvenliği uzmanı",
+    
+    // Instagram - MEGA DETAILED
+    "instagram hesap kurtarma",
+    "instagram hesabı çalındı",
+    "instagram hesabım çalındı acil",
+    "instagram şifre kurtarma",
+    "instagram hesabım kapandı",
+    "instagram geri alma",
+    "instagram hacklendi",
+    "instagram 2fa sorunu",
+    "instagram doğrulama kodu gelmiyor",
+    
+    // Facebook
+    "facebook hesap kurtarma",
+    "facebook hesabım çalındı",
+    "facebook şifre kurtarma",
+    "facebook hesap geri kazanma",
+    "facebook hesabım kapandı",
+    
+    // WhatsApp
+    "whatsapp hesap kurtarma",
+    "whatsapp çalındı",
+    "whatsapp hacklendi",
+    "whatsapp geri alma",
+    
+    // Gmail & E-posta
+    "gmail hesap kurtarma",
+    "gmail şifre kurtarma",
+    "gmail hesabıma giremiyorum",
+    "outlook hesap kurtarma",
+    
+    // Diğer Sosyal Medya
+    "twitter hesap kurtarma",
+    "tiktok hesap kurtarma",
+    "discord hesap kurtarma",
+    "telegram hesap kurtarma",
+    "snapchat hesap kurtarma",
+    
+    // Hacker Hizmetleri
+    "profesyonel hacker kirala",
+    "güvenilir hacker bul",
+    "beyaz şapkalı hacker",
+    "etik hacker hizmeti",
+    "white hat hacker",
+    
+    // Web Güvenliği
+    "web sitesi hacklendi",
+    "web sitesi güvenlik testi",
+    "web güvenlik analizi",
+    "ddos koruma hizmeti",
+    "siber saldırı önleme",
+    
+    // Veri & Malware
+    "veri kurtarma uzmanı",
+    "veri kurtarma hizmeti",
+    "ransomware kaldırma",
+    "zararlı yazılım temizleme",
+    "malware temizleme",
+    "trojan kaldırma",
+    
+    // Genel Hizmetler
+    "hesap kurtarma hizmeti",
+    "hesap kurtarma uzmanı",
+    "sosyal medya güvenliği",
+    "hesap koruma hizmeti",
+    "hesap güvenlik uzmanı",
+    "dijital güvenlik danışmanlığı",
+    
+    // Penetrasyon & Test
+    "penetrasyon testi",
+    "sızma testi hizmeti",
+    "güvenlik açığı testi",
+    
+    // Acil Durumlar
+    "hesabım çalındı acil",
+    "sosyal medya hesap çalındı",
+    "şantaj yapılıyor yardım",
+    "tehdit mesajları",
+    
+    // Lokasyon
+    "istanbul dijital güvenlik uzmanı",
+    "ankara siber güvenlik",
+    "izmir hesap kurtarma",
+  ],
+  openGraph: {
+    title: "🔥 Dijital Güvenlik Hizmetleri | Instagram Hesabı Çalındı | Facebook Hesap Kurtarma | Profesyonel Hacker",
+    description: "Instagram, Facebook, WhatsApp, Gmail hesap kurtarma. Web sitesi hacklendi çözümü. DDoS koruma. Profesyonel hacker kirala. 7/24 destek.",
+    type: "website",
+    url: "https://www.falconmedya.com/hizmetler",
+    siteName: "Kiralık Hacker - Dijital Güvenlik Hizmetleri",
+    locale: "tr_TR",
+    images: [
+      {
+        url: "https://www.falconmedya.com/hizmetler-og.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Dijital Güvenlik Hizmetleri - Instagram Hesap Kurtarma",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "🔥 Dijital Güvenlik Hizmetleri | Instagram Hesabı Çalındı | Hesap Kurtarma",
+    description: "Instagram, Facebook, WhatsApp hesap kurtarma. Web güvenliği. Profesyonel hacker. 7/24 destek.",
+    images: ["https://www.falconmedya.com/hizmetler-twitter.jpg"],
+  },
+  alternates: {
+    canonical: "https://www.falconmedya.com/hizmetler",
+  },
+  category: "Digital Security Services",
 };
 
 const services = [

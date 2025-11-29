@@ -62,11 +62,17 @@ export default function Services() {
             </span>
           </div>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900">
-            Hacker Kiralamak İçin{" "}
-            <span className="text-blue-600">Doğru Yerdesiniz</span>
+            <span className="text-blue-600">Profesyonel Hacker Kirala</span> | 
+            Güvenilir Hacker Bul | {" "}
+            <span className="text-gray-900">Beyaz Şapkalı Hacker</span>
           </h2>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Aklınıza Gelebilicek Tüm İşlemleri Yapabilmekteyiz. Cihaz Erişimi-Whatsapp Takip-Sosyal Medya Hackleme-...vs. Gibi İşlemler Ortalama 1 Saat İçerisinde Hızlıca Tamamlanabilmektedir
+          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            🔥 <strong>Instagram hesabı çalındı? Facebook hesabım çalındı? WhatsApp çalındı?</strong> 
+            {" "}<strong className="text-gray-900">Profesyonel kiralık hacker</strong>, güvenilir <strong>etik hacker</strong> ve 
+            <strong> beyaz şapkalı hacker (white hat hacker)</strong> ekibimizle tüm sosyal medya hesap kurtarma işlemlerinizi yapıyoruz! 
+            Instagram, Facebook, WhatsApp, Gmail, TikTok, Twitter hesap kurtarma. Web sitesi hacklendi çözümü, 
+            DDoS koruma, penetrasyon testi, veri kurtarma, ransomware kaldırma, siber güvenlik danışmanlığı. 
+            İşlemler ortalama <strong>1-24 saat</strong> içinde tamamlanır. 7/24 acil profesyonel destek!
           </p>
         </div>
 
